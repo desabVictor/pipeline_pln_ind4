@@ -1,0 +1,32 @@
+# Ambientes virtuais e variáveis locais
+.venv/
+venv/
+ENV/
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dados pesados gerados pelo pipeline (mantendo a estrutura via .gitkeep)
+data/raw/*.csv
+data/raw/*.parquet
+data/processed/*.csv
+data/processed/*.parquet
+!data/**/.gitkeep
+
+# Resultados locais temporários
+results/*.png
+results/*.jpg
+results/*.csv
+!results/.gitkeep
+
+# Sistema operacional / IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
