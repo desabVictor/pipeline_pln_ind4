@@ -1,6 +1,6 @@
 # pipeline_pln_ind4
 
-Repositório dedicado às ferramentas e códigos utilizados no trabalho **"PROCESSAMENTO DE LINGUAGEM NATURAL APLICADO À IDENTIFICAÇÃO DE TENDÊNCIAS DA LITERATURA SOBRE INDÚSTRIA 4.0"**, de autoria de **Victor Souza Silva** em parceria com o **Grupo de Pesquisa NLP do IFAM CMDI**.
+Repositório dedicado às ferramentas e códigos utilizados no trabalho **"PROCESSAMENTO DE LINGUAGEM NATURAL APLICADO À IDENTIFICAÇÃO DE TENDÊNCIAS DA LITERATURA SOBRE INDÚSTRIA 4.0"**, de autoria de **Victor Souza Silva** em parceria com o **Grupo de Pesquisa NLP**.
 
 ---
 
