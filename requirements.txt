@@ -1,1 +1,23 @@
+# Coleta de dados (API OpenAlex)
+pyalex
 
+# Manipulação e análise de dados
+numpy
+pandas
+
+# Processamento de Linguagem Natural (PLN)
+spacy
+langdetect
+scikit-learn
+
+# Visualização de dados
+matplotlib
+seaborn
+wordcloud
+
+# Ambiente de execução (Notebooks)
+ipykernel
+jupyter
+
+# Nota: após instalar as dependências, baixe o modelo do spaCy com:
+# python -m spacy download en_core_web_sm
